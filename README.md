@@ -175,6 +175,15 @@ Open the local URL provided by Vite in your browser.
 
 The GET `/patients` endpoint supports query parameters for name search and filtering by ward, department, and doctor.
 
+## Screenshots
+
+Add screenshots of the application inside a `screenshots` folder and include them here.
+
+### Main Dashboard
+![Patient Management Dashboard](upper.jpeg)
+
+### Patient Records
+![Patient Records Table](table.jpeg)
 
 
 ---
