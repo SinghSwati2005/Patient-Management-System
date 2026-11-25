@@ -4,7 +4,7 @@ A full-stack web application for managing hospital patient admissions. It allows
 
 ## Live Application
 
-- **Frontend:** [Add your Vercel deployment URL here](https://patient-management-system-neon.vercel.app/)
+- **Frontend:** [LIVE](https://patient-management-system-neon.vercel.app/)
 - **Backend API:** https://patient-management-system-1fwv.onrender.com
 
 ## Technology Stack
